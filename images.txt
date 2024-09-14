@@ -7,3 +7,5 @@ xhofe/alist:latest
 xiaoyaliu/alist:latest
 nyanmisaka/jellyfin:latest
 kingwrcy/moments:latest
+linuxserver/heimdall:latest
+jxxghp/moviepilot:latest
