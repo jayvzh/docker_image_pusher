@@ -10,3 +10,4 @@ kingwrcy/moments:latest
 linuxserver/heimdall:latest
 jxxghp/moviepilot:latest
 xiaoyaliu/alist:hostmode
+louislam/dockge:1
