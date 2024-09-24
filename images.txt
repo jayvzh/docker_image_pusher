@@ -13,3 +13,4 @@ xiaoyaliu/alist:hostmode
 #louislam/dockge:1
 portainer/portainer-ce:latest
 ghcr.io/zyronon/douyin-vue:latest
+homeassistant/home-assistant:latest
