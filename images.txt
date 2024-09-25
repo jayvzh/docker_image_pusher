@@ -14,3 +14,6 @@ xiaoyaliu/alist:hostmode
 portainer/portainer-ce:latest
 ghcr.io/zyronon/douyin-vue:latest
 homeassistant/home-assistant:latest
+kodcloud/kodexplorer:latest
+helloz/zdir:4
+lycheeorg/lychee:latest
