@@ -17,3 +17,5 @@ homeassistant/home-assistant:latest
 kodcloud/kodexplorer:latest
 helloz/zdir:4
 lycheeorg/lychee:latest
+lycheeorg/lychee:dev
+viktorstrate/photoview:2
